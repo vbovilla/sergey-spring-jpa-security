@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>in.weprolance</groupId>
-    <artifactId>spring-security</artifactId>
+    <artifactId>sergey-spring-jpa-security</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-security</name>
     <description>Demo project for Spring Security</description>
